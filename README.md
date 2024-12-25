@@ -1,12 +1,12 @@
-### Walmart-Sales-Data-Analysis-Project-Using-SQL
+## Walmart Sales Data Analysis Project Using SQL
 
 
-# BACKGROUND : 
+### BACKGROUND : 
 
 Walmart is a leading global retailer with a significant online presence. In this project, Walmart's e-commerce data was analyzed to examine various aspects of sales performance.The data includes sales transactions, customer interactions, inventory levels, and product details. Using SQL, the data was queried and analyzed to uncover insights such as identifying top-selling products, understanding customer preferences, and tracking inventory trends. The goal of the project was to help Walmart make informed decisions on inventory management, pricing strategies, and product offerings, ultimately improving sales performance and customer satisfaction. SQL was applied to turn raw data into actionable insights that support business decisions.
 
 
-# OBJECTIVES :
+### OBJECTIVES :
 
 ### Dataset Overview and Basic Retrieval  
 To explore and retrieve all sales data, ensuring accessibility for further analysis and identifying specific transaction types based on conditions.
